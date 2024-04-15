@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "ee5b64c15d555ab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d341e569d1f96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd48b3599628da1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/Computer Vision 관련 paper 및 정리 page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e62fd9b9e4db8e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[Paper Review][Panoptic Segmentation]Segment Anything.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1093758f64eaa318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Academic TODO LIST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e1572b92dc2109d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🇺🇸 English Word For Paper Reading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "256266574a00ac8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "[Paper Review][Generative Model]High-Resolution Image Synthesis with Latent Diffusion Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31059cd42757ef11",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8e96561307bd20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa3995687b05f00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37e5f7f60d12cee6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "170731d5a667fe5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5c149c654824bd4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5110321044922
+  },
+  "right": {
+    "id": "f0ad1a09b893e480",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc7ba608daf92f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de43882a1a070906",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "[Paper Review][Generative Model]High-Resolution Image Synthesis with Latent Diffusion Models.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c132716ae491bbdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "[Paper Review][Generative Model]High-Resolution Image Synthesis with Latent Diffusion Models.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5635c5d51fa5345a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccbcd1fee7f14464",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "[Paper Review][Generative Model]High-Resolution Image Synthesis with Latent Diffusion Models.md"
+              }
+            }
+          },
+          {
+            "id": "14f4b35dbd1eb7f4",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d41c460ebd113dcc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "62aab1f345fa73b8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6aa3995687b05f00",
+  "lastOpenFiles": [
+    "id_git_20240414",
+    "id_git_20240414.pub",
+    "🇺🇸 English Word For Paper Reading.md",
+    "[Paper Review][Panoptic Segmentation]Segment Anything.md",
+    "Disentangled Representations for Short-Term and Long-Term Person Re-Identification.md",
+    "[Paper Review][Segmentation task]Images Speak in Images- A Generalist Painter for In-Context Visual Learning.md",
+    "img_store_tmp/Pasted image 20240404214958.png",
+    "img_store_tmp/Pasted image 20240404170457.png",
+    "img_store_tmp/Pasted image 20240404170455.png",
+    "img_store_tmp/Pasted image 20240404164003.png",
+    "img_store_tmp/Pasted image 20240403223006.png",
+    "img_store_tmp/Pasted image 20240403223004.png",
+    "📚 Academic TODO LIST.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/2024년 1학년 1학기/인공지능창작프로젝트/.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/2024년 1학년 1학기/인공지능창작프로젝트",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/2024년 1학년 1학기",
+    "img_store_tmp/Pasted image 20240331171222.png",
+    "img_store_tmp/Pasted image 20240331165948.png",
+    "img_store_tmp/Pasted image 20240331164241.png",
+    "img_store_tmp/Pasted image 20240331154807.png",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/Computer Vision 관련 paper 및 정리 page.md",
+    "[Paper Review][Generative Model]High-Resolution Image Synthesis with Latent Diffusion Models.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/[Paper Review][Object Detection] Feature Pyramid Networks for Object Detection.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/대학원준비/면접준비-DL.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/[Paper Review][Backbone Architecture]Deep High-Resolution Representation Learning for Visual Recognition.md",
+    "💫Zettel_Kasten💫/3.👨‍🎓PermanentNotes👨‍🎓/Generative Model/VAE(Variational Auto-Encoder).md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/[Paper Review][Image Segmentation] Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/[Paper Review][Object Detection] Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection.md",
+    "💫Zettel_Kasten💫/3.👨‍🎓PermanentNotes👨‍🎓/Generative Model/Basic of Generative Model.md",
+    "💫Zettel_Kasten💫/1.⚡️FleetingNotes⚡️/2024-1 프로젝트 수업.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/[Paper Review][Object Detection] PointPillars-Fast Encoders for Object Detection from Point Clouds.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/PointPillars.pdf",
+    "CRF 의 계보도.md",
+    "CM x PAI LAB 서버 메뉴얼.md",
+    "CM x PAI LAB 서버 메뉴얼.html",
+    "CMMILAB/[Ubuntu] User Management - Admin.md",
+    "CMMILAB/Generate Docker Container.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Math/Maximum Likelihood Estimation.md",
+    "1.Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials.pdf",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Math/Maximum A Posterior.md",
+    "Energy 와 Potential 의 차이.md",
+    "💫Zettel_Kasten💫/2.📚ReferenceNotes📚/Paper Review/[Paper Review][Object Detection] PV-RCNN - Point-Voxel Feature Set Abstraction for 3D Object Detection.md",
+    "img_store_tmp",
+    "💫Zettel_Kasten💫/3.👨‍🎓PermanentNotes👨‍🎓/무제 폴더 오후 12.39.37",
+    "💫Zettel_Kasten💫/3.👨‍🎓PermanentNotes👨‍🎓/Deep Learning/Computer Vision/무제 폴더 오후 1.12.27",
+    "img_store/2c69729a-702e-42e3-b134-7b3a5c3d924b",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "⭐️PARA⭐️/3.📘Resource📘/IOT/Untitled.canvas"
+  ]
+}

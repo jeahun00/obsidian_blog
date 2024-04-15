@@ -1,0 +1,17 @@
+{
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "img_store_tmp",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 68
+  },
+  "spellcheck": false,
+  "showUnsupportedFiles": false,
+  "trashOption": "local",
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false
+}
